@@ -1,8 +1,8 @@
-cd assets_audio_player_web
-./publish.sh
-cd ..
+# cd assets_audio_player_web
+# ./publish.sh
+# cd ..
 
-flutter format lib/
-pub publish --force
+# flutter format lib/
+# pub publish --force
 
-git commit -am "published" && git push
+# git commit -am "published" && git push
